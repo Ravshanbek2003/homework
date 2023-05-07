@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    
+    width: 800px;
+}
+.header-img{
+    /* margin-top: 24px; */
+    width: 146px;
+height: 146px;
+margin: 0 auto;
+}
+.hygenic_food{
+    position: relative;
+    margin: 0 auto;
+    background-image: url(/img/bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1080px;
+    height: 1080px;
+    /* position: relative; */
+}
+.heder_text-small{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 70.6092px;
+line-height: 85px;
+display: flex;
+justify-content: center;
+color: #000000;
+}
+.heder_text-big{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 141.609px;
+line-height: 171px;
+display: flex;
+justify-content: center;
+color: #000000;
+
+}
+.heder_text-top{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 90.6092px;
+line-height: 110px;
+/* identical to box height */
+display: flex;
+justify-content: center;
+
+color: #000000;
+}
+ .header_bottom-img img{
+  top: 400px;
+  left: 90px;
+    
+    position: absolute;
+    /* z-index: 1; */
+}
+.circle_blok{
+    background: #FFF9F2;
+    border-radius: 50%;
+    position: absolute;
+    width: 311px;
+height: 311px;
+padding: 91px 51px 85px 63px;
+left: 728px;
+top: 500px;
+}
+.circle_child{
+    display: flex;
+  
+}
+.circle_left{
+    width: 121px;
+height: 101px;
+
+}
+.circle_right{
+    width: 68px;
+height: 60px;
+
+margin-top: 40px;
+}
+.circle-text{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 21.7753px;
+line-height: 19px;
+/* identical to box height */
+margin-top: 15px;
+text-transform: uppercase;
+
+color: #000000;
+}
+.botton_btn{
+    background: #7A3D2E;
+border-radius: 100px;
+width: 419px;
+height: 98px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+border: none;
+color: #FFFFFF;
+}
+.botton{
+    position: absolute;
+width: 419px;
+height: 98px;
+left: 325px;
+top: 907px;
+}
